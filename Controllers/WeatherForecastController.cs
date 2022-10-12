@@ -1,3 +1,4 @@
+using _06_WebAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace _06_WebAPI.Controllers
